@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive files
+token.json
+credentials.json
+*.key
+*.pem
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Model files (can be large)
+models/lora_model/
+models/tokenizer/
+
+# Data files
+data/uploads/
+data/flashcards/
+data/evaluation_logs/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+

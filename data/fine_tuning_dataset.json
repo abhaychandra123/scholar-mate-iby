@@ -1,0 +1,377 @@
+[
+    {
+    "input": "Lecture on Photosynthesis: Plants use sunlight, water, and CO2 to produce glucose and oxygen. Chlorophyll absorbs light energy. The process occurs in chloroplasts.",
+    "output": {
+      "summary": "Photosynthesis is the process where plants convert sunlight, water, and carbon dioxide into glucose and oxygen using chlorophyll inside chloroplasts.",
+      "flashcards": [
+        {"question": "What is photosynthesis?","answer": "The process where plants convert sunlight, water, and CO2 into glucose and oxygen","category": "definition"},
+        {"question": "Where in plant cells does photosynthesis occur?","answer": "In chloroplasts","category": "location"},
+        {"question": "Which pigment absorbs light for photosynthesis?","answer": "Chlorophyll","category": "concept"}
+      ]
+    }
+    },
+  {
+    "input": "Linear Regression: A statistical method to model relationship between variables. Uses least squares to minimize error. Formula: y = mx + b where m is slope and b is intercept.",
+    "output": {
+      "summary": "Linear regression models the relationship between input and output variables with the equation y = mx + b, estimating m and b by minimizing the sum of squared errors.",
+      "flashcards": [
+        {"question": "What is linear regression?","answer": "A statistical method to model the relationship between variables using a linear equation","category": "definition"},
+        {"question": "What does the formula y = mx + b represent?","answer": "A line with slope m and intercept b","category": "formula"},
+        {"question": "What objective does ordinary least squares minimize?","answer": "The sum of squared residuals (errors)","category": "method"}
+      ]
+    }
+  },
+  {
+    "input": "Newton's laws of motion: 1) An object remains at rest or moves at constant velocity unless acted on by a net force. 2) F = ma, where force equals mass times acceleration. 3) For every action there is an equal and opposite reaction.",
+    "output": {
+      "summary": "Newton's three laws: (1) inertia, (2) F = ma relating net force to mass and acceleration, and (3) action and reaction forces are equal and opposite.",
+      "flashcards": [
+        {"question": "State Newton's first law.","answer": "An object remains at rest or in uniform motion unless acted on by a net external force","category": "law"},
+        {"question": "Write Newton's second law.","answer": "F = ma (force equals mass times acceleration)","category": "formula"},
+        {"question": "What does Newton's third law say?","answer": "For every action there is an equal and opposite reaction","category": "law"}
+      ]
+    }
+  },
+  {
+    "input": "Cellular respiration: Cells break down glucose in the presence of oxygen to produce ATP, CO2, and water. Major stages: glycolysis, the citric acid cycle, and oxidative phosphorylation.",
+    "output": {
+      "summary": "Cellular respiration converts glucose into ATP using oxygen, producing carbon dioxide and water via glycolysis, the citric acid cycle, and oxidative phosphorylation.",
+      "flashcards": [
+        {"question": "What is the overall purpose of cellular respiration?","answer": "To generate ATP by oxidizing glucose","category": "purpose"},
+        {"question": "Name the major stages of aerobic respiration.","answer": "Glycolysis, citric acid (Krebs) cycle, and oxidative phosphorylation","category": "sequence"},
+        {"question": "What are the end products of aerobic respiration?","answer": "ATP, CO2, and H2O","category": "products"}
+      ]
+    }
+  },
+  {
+    "input": "Intro to Algorithms: Time complexity describes how running time grows with input size. Common classes: O(1), O(log n), O(n), O(n log n), O(n^2). Use big-O notation to express upper bounds.",
+    "output": {
+      "summary": "Time complexity characterizes how an algorithm's running time scales with input size; common growth rates include constant, logarithmic, linear, n log n, and quadratic, expressed with big-O notation.",
+      "flashcards": [
+        {"question": "What is big-O notation used for?","answer": "To describe an upper bound on an algorithm's running time as input size grows","category": "definition"},
+        {"question": "Give examples of common complexity classes.","answer": "O(1), O(log n), O(n), O(n log n), O(n^2)","category": "examples"},
+        {"question": "Which complexity grows faster: O(n log n) or O(n^2)?","answer": "O(n^2) grows faster for large n","category": "comparison"}
+      ]
+    }
+  },
+  {
+    "input": "Cell division: Mitosis is the process by which a eukaryotic cell divides to produce two genetically identical daughter cells. Phases include prophase, metaphase, anaphase, and telophase, followed by cytokinesis.",
+    "output": {
+      "summary": "Mitosis is eukaryotic cell division producing two genetically identical daughter cells; phases are prophase, metaphase, anaphase, telophase, followed by cytokinesis.",
+      "flashcards": [
+        {"question": "What is the end result of mitosis?","answer": "Two genetically identical daughter cells","category": "definition"},
+        {"question": "List the main phases of mitosis in order.","answer": "Prophase, metaphase, anaphase, telophase","category": "sequence"},
+        {"question": "What process follows mitosis to split the cytoplasm?","answer": "Cytokinesis","category": "concept"}
+      ]
+    }
+  },
+  {
+    "input": "Ohm's Law: Voltage across a conductor is proportional to the current through it: V = IR, where R is resistance. Power dissipated: P = VI = I^2 R = V^2 / R.",
+    "output": {
+      "summary": "Ohm's Law states V = IR relating voltage, current, and resistance; electrical power can be calculated as P = VI, which equals I^2 R or V^2 / R.",
+      "flashcards": [
+        {"question": "State Ohm's Law.","answer": "V = IR (voltage equals current times resistance)","category": "formula"},
+        {"question": "Give three equivalent formulas for electrical power.","answer": "P = VI, P = I^2 R, and P = V^2 / R","category": "formula"},
+        {"question": "What does R represent in V = IR?","answer": "Resistance","category": "definition"}
+      ]
+    }
+  },
+  {
+    "input": "Intro to Probability: Probability of an event ranges from 0 to 1. For independent events A and B, P(A and B) = P(A)P(B). For mutually exclusive events, P(A or B) = P(A) + P(B).",
+    "output": {
+      "summary": "Probability quantifies event likelihood between 0 and 1; independent events multiply for joint probability, while mutually exclusive events add for union probability.",
+      "flashcards": [
+        {"question": "What is the range of probability values?","answer": "Between 0 and 1 inclusive","category": "definition"},
+        {"question": "How do you compute P(A and B) for independent events?","answer": "P(A) * P(B)","category": "formula"},
+        {"question": "How do you compute P(A or B) for mutually exclusive events?","answer": "P(A) + P(B)","category": "formula"}
+      ]
+    }
+  },
+  {
+    "input": "Chemical bonding: Ionic bonds form when electrons transfer between atoms, creating oppositely charged ions. Covalent bonds form when atoms share electron pairs. Metallic bonding involves delocalized electrons across a lattice of metal cations.",
+    "output": {
+      "summary": "Ionic bonds result from electron transfer producing ions; covalent bonds arise from shared electron pairs; metallic bonds feature delocalized electrons across metal lattices.",
+      "flashcards": [
+        {"question": "How is an ionic bond formed?","answer": "By transfer of electrons resulting in oppositely charged ions attracted to each other","category": "definition"},
+        {"question": "What characterizes a covalent bond?","answer": "Sharing of electron pairs between atoms","category": "definition"},
+        {"question": "What is special about metallic bonding?","answer": "Electrons are delocalized and shared across many metal atoms, allowing conductivity","category": "concept"}
+      ]
+    }
+  },    
+  {
+    "input": "Introduction to Databases: A relational database stores data in tables with rows and columns. Each table has a primary key; relationships between tables are handled with foreign keys. SQL is used to query relational databases.",
+    "output": {
+      "summary": "Relational databases store structured data in tables with primary keys and foreign keys to model relationships; SQL is the standard language for querying them.",
+      "flashcards": [
+        {"question": "What is a primary key?","answer": "A column or set of columns that uniquely identifies a row in a table","category": "definition"},
+        {"question": "What language is commonly used to query relational databases?","answer": "SQL (Structured Query Language)","category": "tool"},
+        {"question": "How are relationships represented between tables?","answer": "Using foreign keys that reference primary keys in other tables","category": "concept"}
+      ]
+    }
+  },
+  {
+    "input": "Evolution by natural selection: Organisms vary, variations are heritable, and those variations that increase fitness tend to become more common over generations. Natural selection acts on phenotypes.",
+    "output": {
+      "summary": "Natural selection is the process where heritable variation among organisms leads to differential survival and reproduction, causing advantageous traits to increase in frequency.",
+      "flashcards": [
+        {"question": "What are the key requirements for natural selection?","answer": "Variation, heritability, and differential reproductive success","category": "requirements"},
+        {"question": "Does natural selection act directly on genotypes or phenotypes?","answer": "It acts on phenotypes, though genotypes underlie them","category": "concept"},
+        {"question": "What is meant by 'fitness' in evolution?","answer": "An organism's expected reproductive success in a given environment","category": "definition"}
+      ]
+    }
+  },
+  {
+    "input": "Thermodynamics: The first law states energy is conserved (ΔU = Q - W). The second law states entropy of an isolated system tends to increase. Heat flows spontaneously from hot to cold.",
+    "output": {
+      "summary": "The first law of thermodynamics expresses conservation of energy (ΔU = Q - W); the second law indicates entropy tends to increase, and heat flows from hot to cold spontaneously.",
+      "flashcards": [
+        {"question": "State the first law of thermodynamics in formula form.","answer": "ΔU = Q - W (change in internal energy equals heat added minus work done by the system)","category": "formula"},
+        {"question": "What does the second law of thermodynamics state qualitatively?","answer": "Entropy of an isolated system tends to increase","category": "law"},
+        {"question": "In which direction does heat flow spontaneously?","answer": "From hot to cold","category": "concept"}
+      ]
+    }
+  },
+  {
+    "input": "Gradient descent: An optimization algorithm that updates parameters in the direction opposite to the gradient of the loss function with respect to parameters, scaled by a learning rate.",
+    "output": {
+      "summary": "Gradient descent minimizes a loss function by iteratively updating parameters opposite to the gradient, scaled by a learning rate to control step size.",
+      "flashcards": [
+        {"question": "What is the basic update rule for gradient descent?","answer": "θ := θ - α * ∇_θ L(θ), where α is the learning rate","category": "formula"},
+        {"question": "Why is learning rate important?","answer": "It controls step size: too large can diverge, too small slows convergence","category": "concept"},
+        {"question": "Does gradient descent guarantee finding a global minimum for non-convex losses?","answer": "No, it may find local minima or saddle points","category": "limitation"}
+      ]
+    }
+  },    
+  {
+    "input": "Supply and Demand: Price in a competitive market is determined by the intersection of supply and demand. An upward shift in demand raises equilibrium price and quantity, ceteris paribus.",
+    "output": {
+      "summary": "In competitive markets, equilibrium price and quantity are set where supply meets demand; an increase in demand (shift right) raises both equilibrium price and quantity if supply is unchanged.",
+      "flashcards": [
+        {"question": "What determines price in a competitive market?","answer": "The intersection of supply and demand curves","category": "definition"},
+        {"question": "What happens when demand increases and supply is constant?","answer": "Equilibrium price and quantity both increase","category": "effect"},
+        {"question": "What assumptions underlie the basic supply-demand model?","answer": "Perfect competition, ceteris paribus, and well-behaved supply and demand curves","category": "assumptions"}
+      ]
+    }
+  },
+  {
+    "input": "Sorting algorithms: QuickSort is a divide-and-conquer algorithm that picks a pivot, partitions elements, and recursively sorts partitions. Average time complexity is O(n log n); worst-case is O(n^2) with poor pivot choices.",
+    "output": {
+      "summary": "QuickSort sorts by partitioning around a pivot and recursively sorting subarrays; it has average time O(n log n) but worst-case O(n^2) when partitions are highly unbalanced.",
+      "flashcards": [
+        {"question": "What is the average time complexity of QuickSort?","answer": "O(n log n)","category": "complexity"},
+        {"question": "Why can QuickSort reach O(n^2) worst case?","answer": "If pivot choices consistently produce highly unbalanced partitions","category": "reason"},
+        {"question": "What paradigm does QuickSort use?","answer": "Divide and conquer","category": "paradigm"}
+      ]
+    }
+  },
+  {
+    "input": "Human circulatory system: The heart pumps blood through systemic and pulmonary circuits. Oxygenated blood leaves the left ventricle into the aorta; deoxygenated blood returns to the right atrium via vena cavae.",
+    "output": {
+      "summary": "The heart circulates blood through pulmonary (lungs) and systemic (body) circuits: oxygenated blood is pumped from the left ventricle via the aorta, while deoxygenated blood returns to the right atrium through the vena cavae.",
+      "flashcards": [
+        {"question": "Which chamber pumps oxygenated blood to the body?","answer": "Left ventricle","category": "anatomy"},
+        {"question": "Where does deoxygenated blood enter the heart?","answer": "Right atrium via the superior and inferior vena cavae","category": "anatomy"},
+        {"question": "Name the two major circulatory circuits.","answer": "Pulmonary and systemic circuits","category": "definition"}
+      ]
+    }
+  },
+  {
+    "input": "Fourier transform: A mathematical transform that decomposes a time-domain signal into frequency components. The continuous Fourier transform integral represents a signal as a superposition of complex exponentials.",
+    "output": {
+      "summary": "The Fourier transform converts time-domain signals into frequency-domain representations, expressing a signal as a sum (or integral) of complex exponentials at different frequencies.",
+      "flashcards": [
+        {"question": "What does the Fourier transform do?","answer": "Decomposes a time-domain signal into frequency components","category": "definition"},
+        {"question": "What functions form the basis in the Fourier transform?","answer": "Complex exponentials e^{iωt}","category": "concept"},
+        {"question": "Is the Fourier transform reversible?","answer": "Yes, via the inverse Fourier transform under suitable conditions","category": "property"}
+      ]
+    }
+  },
+  {
+    "input": "Photosynthesis light and dark reactions: Light-dependent reactions generate ATP and NADPH in the thylakoid membranes; the Calvin cycle (light-independent) uses ATP and NADPH to fix CO2 into triose phosphates in the stroma.",
+    "output": {
+      "summary": "In photosynthesis, light-dependent reactions in thylakoid membranes produce ATP and NADPH, which the Calvin cycle in the stroma uses to fix CO2 into sugar precursors.",
+      "flashcards": [
+        {"question": "Where do light-dependent reactions occur?","answer": "Thylakoid membranes of chloroplasts","category": "location"},
+        {"question": "What are the main products of light reactions used by the Calvin cycle?","answer": "ATP and NADPH","category": "products"},
+        {"question": "What does the Calvin cycle fix into organic molecules?","answer": "Carbon dioxide (CO2)","category": "process"}
+      ]
+    }
+  },
+  {
+    "input": "Bayes' theorem: Relates conditional probabilities: P(A|B) = P(B|A)P(A) / P(B), provided P(B)>0. Useful for updating beliefs with new evidence.",
+    "output": {
+      "summary": "Bayes' theorem updates the probability of A given evidence B using prior knowledge: P(A|B) = P(B|A)P(A)/P(B).",
+      "flashcards": [
+        {"question": "Write Bayes' theorem.","answer": "P(A|B) = P(B|A)P(A)/P(B)","category": "formula"},
+        {"question": "What is P(A) called in Bayesian terms?","answer": "The prior probability","category": "definition"},
+        {"question": "What is P(A|B)?","answer": "The posterior probability after observing B","category": "definition"}
+      ]
+    }
+  },    
+  {
+    "input": "Relativity (special): The laws of physics are the same in all inertial frames and the speed of light in vacuum is constant for all observers. Consequences include time dilation and length contraction.",
+    "output": {
+      "summary": "Special relativity postulates that physical laws are identical in inertial frames and that the speed of light is constant, leading to effects like time dilation and length contraction.",
+      "flashcards": [
+        {"question": "Name the two postulates of special relativity.","answer": "(1) Laws of physics are the same in all inertial frames; (2) Speed of light in vacuum is constant for all observers","category": "postulates"},
+        {"question": "What is time dilation?","answer": "Moving clocks run slower as observed from another inertial frame","category": "effect"},
+        {"question": "What happens to lengths measured along the direction of motion?","answer": "They contract (length contraction)","category": "effect"}
+      ]
+    }
+  },
+  {
+    "input": "Basic Cryptography: Symmetric encryption uses the same key for encryption and decryption (e.g., AES). Asymmetric uses key pairs: public key to encrypt and private key to decrypt (e.g., RSA).",
+    "output": {
+      "summary": "Symmetric cryptography uses a shared key for both encryption and decryption (e.g., AES), while asymmetric uses public/private key pairs where the public key encrypts and the private key decrypts (e.g., RSA).",
+      "flashcards": [
+        {"question": "What is symmetric encryption?","answer": "Encryption where the same secret key is used for encrypting and decrypting data","category": "definition"},
+        {"question": "Give an example of a symmetric cipher.","answer": "AES (Advanced Encryption Standard)","category": "example"},
+        {"question": "What is asymmetric encryption?","answer": "Encryption using a public/private key pair where the public key encrypts and the private key decrypts","category": "definition"}
+      ]
+    }
+  },
+  {
+    "input": "Plate tectonics: The Earth's lithosphere is divided into plates that move over the asthenosphere. Interactions at plate boundaries produce earthquakes, volcanoes, mountain ranges, and ocean trenches.",
+    "output": {
+      "summary": "Plate tectonics describes the movement of lithospheric plates over the asthenosphere; their interactions at boundaries cause earthquakes, volcanism, mountain building, and trenches.",
+      "flashcards": [
+        {"question": "What causes earthquakes and volcanoes in plate tectonics?","answer": "Interactions and movements at plate boundaries","category": "cause"},
+        {"question": "Name the layer plates move over.","answer": "The asthenosphere","category": "definition"},
+        {"question": "What geological features form at convergent boundaries?","answer": "Mountain ranges and ocean trenches (depending on continental/continental or oceanic/continental convergence)","category": "examples"}
+      ]
+    }
+  },
+  {
+    "input": "Project management basics: The triple constraint consists of scope, time, and cost. Changing one typically affects the others; quality is often considered an outcome of balancing these constraints.",
+    "output": {
+      "summary": "Project management's triple constraint comprises scope, time, and cost, where adjustments to one affect the others; maintaining quality requires balancing these constraints.",
+      "flashcards": [
+        {"question": "What are the elements of the triple constraint?","answer": "Scope, time, and cost","category": "definition"},
+        {"question": "How does changing scope typically affect a project?","answer": "It can increase time and cost if scope expands","category": "effect"},
+        {"question": "Where does quality fit in the triple constraint?","answer": "Quality is influenced by how well scope, time, and cost are balanced","category": "concept"}
+      ]
+    }
+  },
+  {
+    "input": "Electrochemistry: In a galvanic cell, spontaneous redox reactions produce electrical energy. Oxidation occurs at the anode and reduction at the cathode; electrons flow through the external circuit from anode to cathode.",
+    "output": {
+      "summary": "A galvanic (voltaic) cell converts chemical energy from spontaneous redox reactions into electrical energy; oxidation at the anode releases electrons that flow to the cathode where reduction occurs.",
+      "flashcards": [
+        {"question": "Where does oxidation occur in a galvanic cell?","answer": "At the anode","category": "definition"},
+        {"question": "Which direction do electrons flow in the external circuit?","answer": "From anode to cathode","category": "direction"},
+        {"question": "Do galvanic cells involve spontaneous or non-spontaneous reactions?","answer": "Spontaneous reactions produce electrical energy","category": "concept"}
+      ]
+    }
+  },
+  {
+    "input": "Markov chains: A Markov chain is a stochastic process where the next state depends only on the current state (memoryless property). Transition probabilities govern state changes.",
+    "output": {
+      "summary": "A Markov chain is a memoryless stochastic process in which future states depend only on the current state, with transitions governed by probabilities.",
+      "flashcards": [
+        {"question": "What is the Markov property?","answer": "Future state depends only on the present state, not past states","category": "definition"},
+        {"question": "What governs transitions in a Markov chain?","answer": "Transition probability matrix or functions","category": "concept"},
+        {"question": "Is a Markov chain deterministic?","answer": "No, it is stochastic (probabilistic)","category": "clarification"}
+      ]
+    }
+  },
+  {
+    "input": "Human respiratory system: Air enters via nose/mouth, travels through the trachea into bronchi and bronchioles, reaching alveoli where gas exchange occurs between air and blood.",
+    "output": {
+      "summary": "The respiratory system channels air from the nose or mouth through the trachea, bronchi, and bronchioles into alveoli, where oxygen and carbon dioxide exchange with the blood.",
+      "flashcards": [
+        {"question": "Where does gas exchange occur in the lungs?","answer": "In the alveoli","category": "location"},
+        {"question": "Name the airway that connects the larynx to the bronchi.","answer": "The trachea (windpipe)","category": "anatomy"},
+        {"question": "Through which structures does air pass after the trachea?","answer": "Bronchi and bronchioles","category": "sequence"}
+      ]
+    }
+  },
+  {
+    "input": "Eigenvalues and eigenvectors: For a square matrix A, a nonzero vector v is an eigenvector if Av = λv for some scalar λ called the eigenvalue. Eigenpairs characterize linear transformations.",
+    "output": {
+      "summary": "Eigenvectors and eigenvalues satisfy Av = λv for matrix A; eigenpairs reveal directions scaled by the linear transformation represented by A.",
+      "flashcards": [
+        {"question": "What equation defines an eigenvector and eigenvalue?","answer": "Av = λv, where v ≠ 0 and λ is the eigenvalue","category": "formula"},
+        {"question": "Can the zero vector be an eigenvector?","answer": "No, eigenvectors must be nonzero","category": "clarification"},
+        {"question": "What information do eigenpairs provide about a linear transformation?","answer": "Directions (eigenvectors) that are scaled by factors (eigenvalues)","category": "interpretation"}
+      ]
+    }
+  },
+  {
+    "input": "Macroeconomics: GDP measures total market value of final goods and services produced in a country during a period. Real GDP is adjusted for inflation; nominal GDP is not.",
+    "output": {
+      "summary": "Gross Domestic Product (GDP) is the market value of final goods and services produced in a country during a time period; real GDP is inflation-adjusted while nominal GDP is measured at current prices.",
+      "flashcards": [
+        {"question": "What does GDP measure?","answer": "Total market value of final goods and services produced domestically in a period","category": "definition"},
+        {"question": "What's the difference between nominal and real GDP?","answer": "Real GDP is adjusted for inflation; nominal GDP is not","category": "comparison"},
+        {"question": "Why adjust GDP for inflation?","answer": "To compare output across time without price level changes distorting growth","category": "reason"}
+      ]
+    }
+  },
+  {
+    "input": "PCR (Polymerase Chain Reaction): A molecular biology technique to amplify DNA using cycles of denaturation, annealing, and extension with a thermostable DNA polymerase (e.g., Taq polymerase).",
+    "output": {
+      "summary": "PCR amplifies specific DNA segments through repeated cycles of denaturation, primer annealing, and extension using a thermostable polymerase like Taq.",
+      "flashcards": [
+        {"question": "What are the three main steps of PCR?","answer": "Denaturation, annealing, and extension","category": "sequence"},
+        {"question": "Why is a thermostable polymerase used in PCR?","answer": "It withstands high temperatures used during denaturation (e.g., Taq polymerase)","category": "reason"},
+        {"question": "What is the purpose of primers in PCR?","answer": "They provide starting points for DNA synthesis by the polymerase","category": "function"}
+      ]
+    }
+  },    
+  {
+    "input": "Boolean logic: AND, OR, NOT are basic logic gates. AND outputs true only if both inputs are true; OR outputs true if at least one input is true; NOT inverts its input.",
+    "output": {
+      "summary": "Boolean logic uses gates like AND, OR, and NOT: AND requires both inputs true, OR requires at least one true, and NOT inverts a boolean value.",
+      "flashcards": [
+        {"question": "When does an AND gate output true?","answer": "Only if both inputs are true","category": "definition"},
+        {"question": "When does an OR gate output true?","answer": "If at least one input is true","category": "definition"},
+        {"question": "What does a NOT gate do?","answer": "Inverts its input (true becomes false and vice versa)","category": "definition"}
+      ]
+    }
+  },        
+  {
+    "input": "Signal processing: Nyquist-Shannon sampling theorem states that a continuous signal band-limited to B Hz can be perfectly reconstructed from samples taken at a rate greater than 2B samples per second (the Nyquist rate).",
+    "output": {
+      "summary": "The Nyquist-Shannon sampling theorem says a band-limited signal with maximum frequency B Hz can be reconstructed exactly if sampled above 2B samples per second (Nyquist rate).",
+      "flashcards": [
+        {"question": "What is the Nyquist rate for a band-limited signal with max frequency B?","answer": "2B samples per second","category": "formula"},
+        {"question": "What happens if you sample below the Nyquist rate?","answer": "Aliasing occurs and the signal cannot be perfectly reconstructed","category": "consequence"},
+        {"question": "What does 'band-limited' mean?","answer": "The signal has no frequency components above a certain maximum frequency B","category": "definition"}
+      ]
+    }
+  },
+  {
+    "input": "Machine learning evaluation: Precision is TP/(TP+FP), recall is TP/(TP+FN), and F1 score is the harmonic mean of precision and recall. Choose metric based on task priorities.",
+    "output": {
+      "summary": "Precision measures true positives out of predicted positives, recall measures true positives out of actual positives, and F1 is their harmonic mean; metric choice depends on whether false positives or false negatives are costlier.",
+      "flashcards": [
+        {"question": "How is precision calculated?","answer": "TP / (TP + FP)","category": "formula"},
+        {"question": "How is recall calculated?","answer": "TP / (TP + FN)","category": "formula"},
+        {"question": "What does the F1 score represent?","answer": "The harmonic mean of precision and recall","category": "definition"}
+      ]
+    }
+  },
+  {
+    "input": "Natural language processing tokenization: Tokenization splits text into tokens such as words or subword units. Subword tokenization (e.g., Byte Pair Encoding) helps handle rare words by splitting them into common subunits.",
+    "output": {
+      "summary": "Tokenization segments text into tokens; subword methods like BPE split rare words into frequent subunits, improving handling of unknown or rare vocabulary.",
+      "flashcards": [
+        {"question": "What is tokenization in NLP?","answer": "The process of splitting text into smaller units called tokens","category": "definition"},
+        {"question": "Why use subword tokenization like BPE?","answer": "To represent rare or unseen words by combining frequent subword units","category": "reason"},
+        {"question": "Give an example of a tokenization benefit.","answer": "Reduces vocabulary size while still representing morphological variants","category": "benefit"}
+      ]
+    }
+  },        
+  {
+    "input": "Control systems: A feedback controller measures output, compares it to a reference, and adjusts inputs to reduce error. Proportional, integral, and derivative (PID) controllers combine terms to shape response.",
+    "output": {
+      "summary": "Feedback control uses output measurements compared to a setpoint to reduce error; PID controllers combine proportional, integral, and derivative actions to improve stability and responsiveness.",
+      "flashcards": [
+        {"question": "What does a feedback controller do?","answer": "Measures output, compares to reference, and adjusts inputs to reduce error","category": "definition"},
+        {"question": "What are the three terms in a PID controller?","answer": "Proportional, Integral, and Derivative","category": "components"},
+        {"question": "What does the integral term address?","answer": "Steady-state error (it accumulates past errors)","category": "function"}
+      ]
+    }
+  }
+]
+  
