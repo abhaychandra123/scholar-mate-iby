@@ -1,3 +1,6 @@
+Name: Abhay Chandra
+University: IIT Bombay
+Department: BS Engineering Sciences with specialization in AI ML
 # ScholarMate - AI-Powered Academic Assistant
 
 ScholarMate is a comprehensive, MCP-integrated AI system that automates academic life through intelligent scheduling, lecture summarization, flashcard generation, and adaptive study planning.
@@ -285,5 +288,3 @@ ScholarMate is designed for educational purposes. Features:
 - Integration with note-taking apps (Notion, Evernote)
 
 ---
-
-**Built with ❤️ for students by students**
